@@ -31,5 +31,9 @@ class Rotas {
 
         endif;
     }
+    
+    static function get_SiteURL(){
+        
+    }
 
 }

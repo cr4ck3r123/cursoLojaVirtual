@@ -23,7 +23,6 @@ class Config {
     protected $BANCO_BD = "sistemaloja17";
 
     /*
-     * 
      * informações do site =================
      */
    //url do site 
